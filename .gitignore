@@ -41,7 +41,8 @@ package-lock.json yarn.lock
 # Optional: untuk file lokal dev tools
 *.local
 
-uploads
-/src/generated/prisma
+uploads/
+generated/
 
 .http
+g
